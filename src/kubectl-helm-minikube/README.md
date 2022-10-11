@@ -7,9 +7,9 @@ Installs latest version of kubectl, Helm, and optionally minikube. Auto-detects 
 
 ```json
 "features": {
-        "ghcr.io/devcontainers/features/kubectl-helm-minikube:1": {
-            "version": "latest"
-        }
+    "ghcr.io/dvgitit/features/kubectl-helm-minikube:1": {
+        "version": "latest"
+    }
 }
 ```
 
@@ -37,4 +37,4 @@ nohup kubectl port-forward --pod-running-timeout=24h -n ingress-nginx service/in
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/devcontainers/features/blob/main/src/kubectl-helm-minikube/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/dvgitit/features/blob/main/src/kubectl-helm-minikube/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._

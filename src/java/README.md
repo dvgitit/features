@@ -7,9 +7,9 @@ Installs Java, SDKMAN! (if not installed), and needed dependencies.
 
 ```json
 "features": {
-        "ghcr.io/devcontainers/features/java:1": {
-            "version": "latest"
-        }
+    "ghcr.io/dvgitit/features/java:1": {
+        "version": "latest"
+    }
 }
 ```
 
@@ -29,4 +29,4 @@ For the Java Feature from this repository, see [NOTICE.txt](https://github.com/d
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/devcontainers/features/blob/main/src/java/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/dvgitit/features/blob/main/src/java/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._

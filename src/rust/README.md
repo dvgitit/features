@@ -7,9 +7,9 @@ Installs Rust, common Rust utilities, and their required dependencies
 
 ```json
 "features": {
-        "ghcr.io/devcontainers/features/rust:1": {
-            "version": "latest"
-        }
+    "ghcr.io/dvgitit/features/rust:1": {
+        "version": "latest"
+    }
 }
 ```
 
@@ -24,4 +24,4 @@ Installs Rust, common Rust utilities, and their required dependencies
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/devcontainers/features/blob/main/src/rust/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/dvgitit/features/blob/main/src/rust/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._

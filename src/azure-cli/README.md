@@ -7,9 +7,9 @@ Installs the Azure CLI along with needed dependencies. Useful for base Dockerfil
 
 ```json
 "features": {
-        "ghcr.io/devcontainers/features/azure-cli:1": {
-            "version": "latest"
-        }
+    "ghcr.io/dvgitit/features/azure-cli:1": {
+        "version": "latest"
+    }
 }
 ```
 
@@ -23,4 +23,4 @@ Installs the Azure CLI along with needed dependencies. Useful for base Dockerfil
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/devcontainers/features/blob/main/src/azure-cli/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/dvgitit/features/blob/main/src/azure-cli/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._

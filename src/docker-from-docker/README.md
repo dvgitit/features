@@ -7,9 +7,9 @@
 
 ```json
 "features": {
-        "ghcr.io/devcontainers/features/docker-from-docker:1": {
-            "version": "latest"
-        }
+    "ghcr.io/dvgitit/features/docker-from-docker:1": {
+        "version": "latest"
+    }
 }
 ```
 
@@ -51,4 +51,4 @@ docker run -it --rm -v ${LOCAL_WORKSPACE_FOLDER}:/workspace debian bash
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/devcontainers/features/blob/main/src/docker-from-docker/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/dvgitit/features/blob/main/src/docker-from-docker/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._

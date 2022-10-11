@@ -7,9 +7,9 @@ Installs the provided version of Python, as well as PIPX, and other common Pytho
 
 ```json
 "features": {
-        "ghcr.io/devcontainers/features/python:1": {
-            "version": "latest"
-        }
+    "ghcr.io/dvgitit/features/python:1": {
+        "version": "latest"
+    }
 }
 ```
 
@@ -28,4 +28,4 @@ Installs the provided version of Python, as well as PIPX, and other common Pytho
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/devcontainers/features/blob/main/src/python/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/dvgitit/features/blob/main/src/python/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
