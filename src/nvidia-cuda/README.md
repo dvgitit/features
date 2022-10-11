@@ -7,9 +7,9 @@ Installs shared libraries for NVIDIA CUDA.
 
 ```json
 "features": {
-        "ghcr.io/devcontainers/features/nvidia-cuda:1": {
-            "version": "latest"
-        }
+    "ghcr.io/dvgitit/features/nvidia-cuda:1": {
+        "version": "latest"
+    }
 }
 ```
 
@@ -45,4 +45,4 @@ Enable GPU passthrough to your devcontainer by adding `["--gpus", "all"]` to you
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/devcontainers/features/blob/main/src/nvidia-cuda/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/dvgitit/features/blob/main/src/nvidia-cuda/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._

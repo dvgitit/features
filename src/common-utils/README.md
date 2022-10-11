@@ -7,9 +7,9 @@ Installs a set of common command line utilities, Oh My Zsh!, and sets up a non-r
 
 ```json
 "features": {
-        "ghcr.io/devcontainers/features/common-utils:1": {
-            "version": "latest"
-        }
+    "ghcr.io/dvgitit/features/common-utils:1": {
+        "version": "latest"
+    }
 }
 ```
 
@@ -41,4 +41,4 @@ This setting will survive a rebuild since it is applied to the repository rather
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/devcontainers/features/blob/main/src/common-utils/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/dvgitit/features/blob/main/src/common-utils/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
